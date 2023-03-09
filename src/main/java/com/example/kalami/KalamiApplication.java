@@ -8,6 +8,7 @@ public class KalamiApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(KalamiApplication.class, args);
+		println("test");
     }
 
 }
